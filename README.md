@@ -1,18 +1,14 @@
-# RepositorioTemplate
-
-Repositório que deve ser utilizado como template inicial pelos grupos da matéria de Arquitetura e Desenho de Software.
-
 ## Introdução
 
 Este repositório traz um template de repo de documentação a ser seguido pelos grupos de arquitetura e desenho de software.
 
-## Tecnologia
+## Vídeo de apresentação da integração
 
-A geração do site estático é realizada utilizando o [docsify](https://docsify.js.org/).
+#### Google Drive
+[Vídeo de apresentação da integração](https://drive.google.com/drive/folders/11PAhbgVcUg9Kwk30PKg_jhiif3DTqg42?usp=sharing)
 
-```shell
-"Docsify generates your documentation website on the fly. Unlike GitBook, it does not generate static html files. Instead, it smartly loads and parses your Markdown files and displays them as a website. To start using it, all you need to do is create an index.html and deploy it on GitHub Pages."
-```
+#### Youtube - Não listado
+[Vídeo de apresentação da integração](https://youtu.be/LW-cwyAbDyo)
 
 ### Instalando o docsify
 
