@@ -3,11 +3,11 @@ from pedido import Pedido
 
 def main():
     pedido = Pedido(AguardandoPagamento())
-    pedido.confirmar_pedido()
+    pedido.confirmar_pedido()  
     pedido.enviar_pedido()      
     
     pedido.set_estado(PagamentoAprovado())
-    pedido.enviar_pedido()     
+    pedido.enviar_pedido()      
 
     pedido.set_estado(EmSeparacao())
     pedido.enviar_pedido()      
